@@ -1,6 +1,9 @@
-# Java Animation Examples!
+# CSIS220 Java Animation Examples!
+Developed by:  Aaron McGuirk, Ethan Bartlett, Jason Macutek
 ## Ex. from Siena College CSIS-225 Problem Set, Spring 2022
-Example of Java Animation using graphics.
-Three examples called Ski Ball, Bubble Blower, and Draw Fractal Sqaures.
+>Example of Java Animation using graphics.
+>* Ski Ball
+>* Bubble Blower
+>* Draw Fractal Sqaures.
 
-Contributers: Aaron McGuirk, Ethan Bartlett, Jason Macutek
+Copyright © 2023 Aaron McGuirk & Associates
